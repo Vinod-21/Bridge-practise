@@ -12,4 +12,4 @@ else
 echo "$year is not a leap year!!!"
 fi
 fi
-echo "have a nice day!!!"
+echo 0. $((RANDOM))
